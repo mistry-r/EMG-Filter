@@ -1,0 +1,5 @@
+Metric,Value
+RMS before filter - Relaxed EMG,0.056802758311347
+RMS after filter - Relaxed EMG,0.005010770597620548
+RMS before filter - Contracted EMG,0.06450462217796574
+RMS after filter - Contracted EMG,0.027228030888012057
