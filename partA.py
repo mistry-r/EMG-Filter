@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy import signal
 from scipy.signal import butter, lfilter
 
-# Step 1: Read data from the CSV file
+# Step 1: Read data from CSV file
 data = pd.read_csv('EMG_Datasets.csv')
 
 # Step 2: Extract time and EMG values for relaxed and contracted muscles
